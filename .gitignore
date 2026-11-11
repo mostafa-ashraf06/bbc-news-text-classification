@@ -1,0 +1,12 @@
+# extracted dataset (recreated automatically by the notebook)
+bbc-datasets-main/bbc_data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
